@@ -1,0 +1,44 @@
+/* add your CSS here */
+#container {
+  margin: auto;
+  width: 310px;
+  box-shadow: 10px 10px 3px -1px rgba(227,227,227,1);
+}
+
+#animal-type {
+  margin: 0;
+}
+
+#animal-info {
+  width: 288px;
+}
+
+#image {
+  width: 300px;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border-radius: 5%;
+}
+
+ul{
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+
+.bordered {
+  border-width: thin;
+  border-style: solid;
+  border-color: rgb(200, 208, 207);
+  border-radius: 10px;
+  padding: 2%;
+}
+
+.italicized {
+  font-style: italic;
+}
+
+.bolded {
+  font-weight: bold;
+}
